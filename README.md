@@ -1,6 +1,6 @@
 # EX-09 SIMULATING CLASSIFICATION USING WEKA DATA MINING AND ANALYSIS TOOL
 ### AIM:
-To perform a classification technique using WEKA tool.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   **DATE :** 17.10.2023  
+To perform a classification technique using WEKA tool.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   **DATE :** 17.10.2023  
 ### WEKA:  
 Weka is a comprehensive software that lets you to preprocess the big data, apply different machine learning algorithms on big data and compare various outputs. This software makes it easy to work with big data and train a machine using machine learning algorithms. This tutorial will guide you in the use of WEKA for achieving all the above requirements.
 WEKA - an open source software provides tools for data preprocessing, implementation of several Data mining and Machine Learning algorithms, and visualization tools so that you can develop machine learning techniques and apply them to real-world data mining problems. What WEKA offers is summarized in the following diagram −
@@ -19,7 +19,6 @@ Classification in data mining is a common technique that separates data points i
 </table>
   
 ### PROCEDURE:
-<div align=left>
 <table>
 <tr>
 <th>
@@ -120,7 +119,7 @@ Classification in data mining is a common technique that separates data points i
 </th>
 </tr>
 </table>
-</div>
+
 
 ### RESULT:
 Thus the simulation of classification technique has been executed using WEKA tool successfully.
